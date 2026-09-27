@@ -1,0 +1,8 @@
+{
+  "bypass_engine": "active",
+  "stealth_mode": "max",
+  "anticheat_patch": "enabled",
+  "memory_protection": "bypass_active",
+  "version": "2026.NARUTO.STABLE",
+  "offset_mask": "0x7F8A2B3C"
+}
